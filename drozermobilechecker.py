@@ -2,7 +2,7 @@
 
 ###############################################################################################################
 ## [Title]: drozermobilechecker.py -- an Information Gathering tool for mobile apps based on Drozer framework
-## [Author]: Razvan-Costin Ionescu - rionescu@secureworks.com
+## [Author]: Razvan-Costin Ionescu
 ##-------------------------------------------------------------------------------------------------------------
 ## [Details]:
 ## This script is intended to be executed locally on a Linux box to enumerate basic informations about a
